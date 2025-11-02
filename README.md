@@ -28,25 +28,7 @@ The final prediction is made using a **weighted hybrid voting system**, providin
 | Visualization | Matplotlib, Seaborn |
 | Deployment | Streamlit Cloud / Render |
 
----
 
-
-## 🧩 Project Structure
-src/
-│── code/
-│ ├── dataloader.py
-│ ├── evaluate_hybrid.py
-│ ├── inference.py
-│ ├── model_definitions.py
-│ ├── webapp.py
-│── checkpoints/
-│── newly_trained_model/
-│── evaluate_hybrid.ipynb
-requirements.txt
-Procfile
-
-
----
 
 ## ⚙️ Installation
 
