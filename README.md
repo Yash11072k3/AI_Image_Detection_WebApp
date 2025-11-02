@@ -71,25 +71,25 @@ streamlit run src/code/webapp.py
 
 🧠 Models Used
 
-CNN
-ResNet18
-PatchSelection
-DIF
-UFD
-Hybrid Weighted Voting
+- CNN
+- ResNet18
+-PatchSelection
+-DIF
+-UFD
+-Hybrid Weighted Voting
 
 ---
 
 📈 Results
 
-Average Accuracy: 98.3%
-Confusion Matrix and classification reports included
+-Average Accuracy: 98.3%
+-Confusion Matrix and classification reports included
 
 ---
 
 👨‍💻 Author
 
-Yashwanth Seshathri
-B.Tech Artificial Intelligence & Data Science
-📍 Coimbatore, India
-📧 yashwanthyash1107@gmail.com
+- Yashwanth Seshathri
+- B.Tech Artificial Intelligence & Data Science
+- 📍 Coimbatore, India
+-  yashwanthyash1107@gmail.com
