@@ -1,0 +1,42 @@
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.ipynb_checkpoints/
+
+# === Data & Models ===
+*.pth
+*.pt
+*.pkl
+*.h5
+*.ckpt
+*.weights
+*.onnx
+dataset/
+data/
+new_preprocessed_dataset/
+
+# === Databases ===
+*.db
+*.sqlite3
+
+# === System Files ===
+.DS_Store
+Thumbs.db
+
+# === Virtual Environments ===
+venv/
+.env/
+.venv/
+
+# === Large model outputs ===
+src/checkpoints/
+src/newly_trained_model/checkpoints/
+src/newly_trained_model/pth files/
+
+# === IDE Files ===
+.vscode/
+.idea/

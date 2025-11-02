@@ -1,0 +1,17 @@
+# Ignore model checkpoints and large files
+src/newly_trained_model/checkpoints/
+*.pth
+*.pt
+*.h5
+
+# Ignore virtual environment
+venv/
+__pycache__/
+
+# Ignore database and logs
+*.db
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,62 @@
+Project structure for: D:\AI_Image_Detection_WebApp
+
+├── AI_Image_Detection_WebApp
+│   ├── .gitattributes
+│   ├── .gitignore
+│   ├── files.py
+│   ├── file_clean.py
+│   ├── requirements.txt
+│   ├── users.db
+│   ├── src
+│   │   ├── evaluate_hybrid.ipynb
+│   │   ├── hybrid_classification_report.txt
+│   │   ├── hybrid_confusion_matrix.png
+│   │   ├── hybrid_model_predictions.txt
+│   │   ├── Procfile
+│   │   ├── requirements.txt
+│   │   ├── users.db
+│   │   ├── checkpoints
+│   │   │   ├── CNN_best.pth
+│   │   │   ├── CNN_epoch1.pth
+│   │   │   ├── DIF_best.pth
+│   │   │   ├── DIF_epoch1.pth
+│   │   │   ├── NDD_ResNet_best.pth
+│   │   │   ├── NDD_ResNet_epoch1.pth
+│   │   │   ├── PatchSelection_best.pth
+│   │   │   ├── PatchSelection_epoch1.pth
+│   │   │   ├── UFD_best.pth
+│   │   │   ├── UFD_epoch1.pth
+│   │   ├── code
+│   │   │   ├── dataloader.py
+│   │   │   ├── evaluate_hybrid.py
+│   │   │   ├── inference.py
+│   │   │   ├── model_definitions.py
+│   │   │   ├── new_hybrid.ipynb
+│   │   │   ├── new_hybrid.py
+│   │   │   ├── utils.py
+│   │   │   ├── webapp.py
+│   │   ├── newly_trained_model
+│   │   │   ├── accuracy
+│   │   │   │   ├── CNN_accuracy.png
+│   │   │   │   ├── DIF_accuracy.png
+│   │   │   │   ├── PatchSelection_accuracy.png
+│   │   │   │   ├── ResNetModel_accuracy.png
+│   │   │   │   ├── UFD_accuracy.png
+│   │   │   ├── checkpoints
+│   │   │   │   ├── CNN_checkpoint.pth
+│   │   │   │   ├── DIF_checkpoint.pth
+│   │   │   │   ├── PatchSelection_checkpoint.pth
+│   │   │   │   ├── ResNetModel_checkpoint.pth
+│   │   │   │   ├── UFD_checkpoint.pth
+│   │   │   ├── loss
+│   │   │   │   ├── CNN_loss.png
+│   │   │   │   ├── DIF_loss.png
+│   │   │   │   ├── PatchSelection_loss.png
+│   │   │   │   ├── ResNetModel_loss.png
+│   │   │   │   ├── UFD_loss.png
+│   │   │   ├── pth files
+│   │   │   │   ├── CNN.pth
+│   │   │   │   ├── DIF.pth
+│   │   │   │   ├── PatchSelection.pth
+│   │   │   │   ├── ResNetModel.pth
+│   │   │   │   ├── UFD.pth
