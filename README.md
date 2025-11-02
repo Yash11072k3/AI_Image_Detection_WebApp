@@ -73,17 +73,17 @@ streamlit run src/code/webapp.py
 
 - CNN
 - ResNet18
--PatchSelection
--DIF
--UFD
--Hybrid Weighted Voting
+- PatchSelection
+- DIF
+- UFD
+- Hybrid Weighted Voting
 
 ---
 
 📈 Results
 
--Average Accuracy: 98.3%
--Confusion Matrix and classification reports included
+- Average Accuracy: 98.3%
+- Confusion Matrix and classification reports included
 
 ---
 
